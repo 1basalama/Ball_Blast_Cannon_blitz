@@ -5,3 +5,7 @@ The project uses graphics.h, which is not a modern graphics library like OpenGL,
 
 You need to install graphics.h before you can run The program.
 The Installation of graphics.h is different for each IDE.
+
+![game when playing](canon.jpg)
+
+![game when playing](lose.jpg)
